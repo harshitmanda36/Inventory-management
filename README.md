@@ -11,7 +11,7 @@ A minimal, production-ready starter for **inventory management** with:
 - Java 17+
 - Maven 3.9+
 - Node 18+
-- MongoDB running locally (`mongodb://localhost:27017`) or Atlas (provide `MONGODB_URI`)
+- MongoDB 
 
 ### 1) Run Backend
 
