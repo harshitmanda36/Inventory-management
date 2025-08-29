@@ -1,0 +1,15 @@
+com/example/inventory/dto/AuthDtos$RegisterRequest.class
+com/example/inventory/repository/UserRepository.class
+com/example/inventory/repository/ItemRepository.class
+com/example/inventory/model/Item.class
+com/example/inventory/security/JwtService.class
+com/example/inventory/security/JwtAuthenticationFilter.class
+com/example/inventory/controller/AuthController.class
+com/example/inventory/controller/ItemController.class
+com/example/inventory/InventoryApplication.class
+com/example/inventory/config/SecurityConfig.class
+com/example/inventory/dto/AuthDtos$LoginRequest.class
+com/example/inventory/dto/AuthDtos.class
+com/example/inventory/security/UserDetailsServiceImpl.class
+com/example/inventory/model/User.class
+com/example/inventory/dto/AuthDtos$AuthResponse.class
